@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: clemens-zauchner
+spec:
+  profile:
+    displayName: Clemens Zauchner
+    email: cst.zauchner@gmail.com
